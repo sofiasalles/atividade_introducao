@@ -1,0 +1,44 @@
+Sofia Salles Lantyer Marques	
+RA: 1460682023041
+
+I. Sendo o sistema operacional/site web escolhido o Google Chrome, um site de pesquisa, pode-se ter como exemplo de dado, 
+informação e conhecimento:
+DADO: 209,5 milhões
+INFORMAÇÃO: 209,5 milhões de habitantes no Brasil
+CONHECIMENTO: A população total do Brasil é de 209,5 milhões de habitantes, Sendo 104,772 milhões de mulheres 
+sabe-se que 15% das mulheres ocupam algum cargo político.
+
+II. 
+Nome (entrada): SOFIA MARQUES
+
+S = 83 (decimal) = 01010011 (binário)
+O = 79 (decimal) = 01001111 (binário)
+F = 70 (decimal) = 01000110 (binário)
+I = 73 (decimal) = 01001001 (binário)
+A = 65 (decimal) = 01000001 (binário)
+
+M = 77 (decimal) = 01001101 (binário)
+A = 65 (decimal) = 01000001 (binário)
+R = 82 (decimal) = 01010010 (binário)
+Q = 81 (decimal) = 01010001 (binário)
+U = 85 (decimal) = 01010101 (binário)
+E = 69 (decimal) = 01000101 (binário)
+S = 83 (decimal) = 01010011 (binário)
+
+Saída
+
+01010011
+01001111
+01000110
+01001001
+01000001
+01001101
+01000001
+01010010
+01010001
+01010101
+01000101
+01010011
+
+III. Um exemplo de site que usa criptografia é o site do Google.
+link: https://www.google.com.br/
